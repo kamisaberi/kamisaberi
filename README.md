@@ -1,3 +1,15 @@
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Repository Annual Ranking in Open Source Database" src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
 <h1>Hi 👋, I'm Kamran Saberifard</h1>
 <p>Dedicated and passionate programmer with 24 years of experience in software development and a strong background in teaching. Proficient in multiple programming languages, including Python, C#, C++, Java, ..., with a proven track record of delivering high‑quality code and innovative solutions. As an educator, I have successfully developed and implemented engaging curricula that foster a deep understanding of programming concepts among students. Committed to continuous learning and adapting to new technologies, I strive to inspire and empower the next gener‑ ation of developers through hands‑on learning experiences.</p>
 <h2>🚀 Languages and Tools I Use</h2>
