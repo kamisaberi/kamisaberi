@@ -1,14 +1,13 @@
-
-
 # Kamisaberi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner&center=true&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
 ## About Me
-
-Hello! I'm a **{Your Title}** with a passion for **{Your Passion}**. I have **{X years}** of experience in **{Your Field/Industry}**, and I love creating clean, user-friendly applications following modern design principles. I specialize in working with **{Technologies or Platforms}** to build solutions that are both functional and aesthetically pleasing.
-
-Outside of coding, I enjoy **{Your Hobbies or Interests}**. I’m always learning new things and embracing challenges. Feel free to explore my work and reach out if you’d like to collaborate or chat!
+Dedicated and passionate programmer with 24 years of experience in software development and a strong background in teaching. Proficient in
+multiple programming languages, including Python, C#, C++, Java, ..., with a proven track record of delivering high‑quality code and innovative
+solutions. As an educator, I have successfully developed and implemented engaging curricula that foster a deep understanding of programming
+concepts among students. Committed to continuous learning and adapting to new technologies, I strive to inspire and empower the next gener‑
+ation of developers through hands‑on learning experiences.
 
 ## Skills
 
@@ -21,8 +20,8 @@ Outside of coding, I enjoy **{Your Hobbies or Interests}**. I’m always learnin
 ## Projects
 
 <!-- Replace `Repo1` and `Repo2` with your project repository names -->
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=kamisaberi&repo=Repo1&theme=transparent&hide_border=true)](https://github.com/kamisaberi/Repo1)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=kamisaberi&repo=Repo2&theme=transparent&hide_border=true)](https://github.com/kamisaberi/Repo2)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=kamisaberi&repo=xtorch&theme=transparent&hide_border=true)](https://github.com/kamisaberi/xtorch)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=kamisaberi&repo=xtorch-bridge&theme=transparent&hide_border=true)](https://github.com/kamisaberi/xtorch-bridge)
 
 **Project 1:** Brief description of your project, what it does, and the main technology used. (e.g., **Tech Stack:** React, Node.js, MongoDB)  
 
