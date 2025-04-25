@@ -32,8 +32,8 @@ _*Tip:* You can pin more projects by duplicating the above lines and replacing t
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamisaberi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamisaberi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamisaberi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamisaberi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 _## Contact_
